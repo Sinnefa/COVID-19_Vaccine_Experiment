@@ -3,7 +3,7 @@
 Through a computational analysis it seems like Foot-And-Mouth vaccines might represent a starting point to create a vaccine against the coronavirus COVID-19.
 
 # Abstract
-Vaccines act recognizing pathogens. http://www.violinet.org/index.php is a website which archives vaccines and their targets. By scanning the sequence of all pathogens for each vaccine one can associate Vaccines with their recognized targets. Building a TSV file containing these associations and adding COVID-19 one can compare all vaccines and fine which one is recognises sequences similar to those of COVID-19 published here: https://www.ncbi.nlm.nih.gov/nuccore/MN908947. Furthermore SWISS-MODEL published the 3d structure which might further hide targeting this virus (https://swissmodel.expasy.org/repository/species/2697049).
+Vaccines act recognizing pathogens. http://www.violinet.org/index.php is a website which archives vaccines and their targets. By scanning the sequence of all pathogens for each vaccine one can associate Vaccines with their recognized targets. Building a TSV file containing these associations and adding COVID-19 one can compare all vaccines and fine which one is recognises sequences similar to those of COVID-19 published here: https://www.ncbi.nlm.nih.gov/nuccore/MN908947. Furthermore SWISS-MODEL published the 3d structure which might further hide targeting this virus (https://swissmodel.expasy.org/repository/species/2697049). This analysis shows that FMDV (Foot-And-Mouth Virus) vaccine might worth further investigations.
 
 # Results
 The two vaccines which reported a significant z-score are:
@@ -11,7 +11,7 @@ The two vaccines which reported a significant z-score are:
 * Feline infectiour peritonitis virus 3abc mutant vaccine et. similia
 See complete list **vaccines-human.tsv**
 
-It is interesting to notice that the two viruses, despite belonging to two distinct families, are both RNA viruses.
+It is interesting to notice that the two viruses, despite belonging to two distinct families, are both RNA viruses and sperical.
 
 Aligning proteins (BLOSUM62, open: 10, extend: 1) it seems like Foot-And-Mouth vaccines might partially recognize two COVID-19 proteins. In particular, the COVID-19 envelop protein:
 * https://www.ncbi.nlm.nih.gov/protein/QHD43418.1 which seems similar to https://www.ncbi.nlm.nih.gov/protein/NP_740466.1?report=genpept.
