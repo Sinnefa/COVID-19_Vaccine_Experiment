@@ -1,4 +1,7 @@
 # COVID-19 Vaccine Experiment
+
+Through a computational analysis it seems like Foot-And-Mouth vaccines might represent a starting point to create a vaccine agains COVID-19.
+
 # Abstract
 Vaccines act recognizing pathogens. http://www.violinet.org/index.php is a website which archives vaccines and their targets. By scanning the sequence of all pathogens for each vaccine one can associate Vaccines with their recognized targets. Building a TSV file containing these associations and adding COVID-19 one can compare all vaccines and fine which one is recognises sequences similar to those of COVID-19.
 
