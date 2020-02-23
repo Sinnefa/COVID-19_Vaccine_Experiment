@@ -52,7 +52,7 @@ In this repository, other than the source code, you can find two file
 6) **vaccines-virus-sequence.tsv** a file containing Vaccines, Virus name and sequences
 
 # Conclusion
-Despite being a preliminary experiment this analysis can be inspirational to experiment known vaccines againt unknown viruses.
+Through this a computational analysis it seems like Foot-And-Mouth vaccines might represent a starting point to create a vaccine against the coronavirus COVID-19. Despite being a preliminary experiment this analysis can be inspirational to experiment known vaccines againt unknown viruses.
 
 # Contacts
 Alberto Calderone, Ph.D. - sinnefa@gmail.com
