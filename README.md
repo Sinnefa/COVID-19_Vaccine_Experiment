@@ -20,8 +20,6 @@ Aligning proteins (BLOSUM62, open: 10, extend: 1) it seems like Foot-And-Mouth v
 Plus the following:
 * https://www.ncbi.nlm.nih.gov/protein/1798172433 which seems similar to https://www.ncbi.nlm.nih.gov/protein/CAC22182.2
 
-<<insertHTML:[comparison.html]
-
 ||||||||||
 |--- |--- |--- |--- |--- |--- |--- |--- |--- |
 ||ABR13034.1|**CAC22182.2**|CAC34727.1|**NP_740461.1**|**NP_740466.1**|NP_740467.1|AAT01695.1|AAK97050.1|
